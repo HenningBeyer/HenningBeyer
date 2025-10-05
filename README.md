@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--**HenningBeyer/HenningBeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**HenningBeyer/HenningBeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Welcome! 👋
 💻 I'm currently diving into: Multi-agent Reinforcement Learning (MARL) and its applications. Currently of interest: swarm optimization, swarm control
