@@ -12,6 +12,6 @@ Welcome! 👋 <br>
   - ML / XAI / DL / RL / MARL / Decision intelligence / Physics / Computing
   - Data-Driven Science / Modelling / Simulation / Optimisation / Control
   - Mathematical Programming, Game Theory, Swarm Optimisation, Evolutionary Optimisation
-  - Industrial Applications such as: Quantum Computing, Robotics, Trading, Power Markets
+  - Industrial Applications such as: Quantum Computing, Robotics, Trading, Power Markets, Biotech
   - Physics areas such as: Responsive Matter, Active Matter, Adaptive Matter, Intelligent Matter, Nano-Robotics, Photonics, Complex Systems, PIML
   - Foundation Models such as: GNNs, Diffusion Models, Transformers, ...
